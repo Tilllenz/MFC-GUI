@@ -1,0 +1,4 @@
+[server]
+enableCORS = false
+[browser]
+serverAddress = "the_address.com" # Can be an IP address too
